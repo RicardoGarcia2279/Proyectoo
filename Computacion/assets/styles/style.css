@@ -1,0 +1,11 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+.card{
+	width: 100%;
+	margin: 20px;
+	border-radius: 6px;
+	overflow: hidden;
+	background:#d87f1a;
+	box-shadow: 30px 20px 40px rgba(54, 238, 94, 0.89);
+	transition: all 400ms ease-out;
+	cursor: default;
+}
